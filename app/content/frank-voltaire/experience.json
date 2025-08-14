@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Google",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "locationType": "remote",
+    "type": "full-time",
+    "description": "Developed and maintained web applications using React and Node.js.",
+    "startDate": "2020-01-01",
+    "endDate": "2021-01-01",
+    "skills": ["React", "Node.js", "TypeScript"]
+  },
+  {
+    "company": "Apple",
+    "title": "Software Engineer",
+    "location": "San Francisco, CA",
+    "locationType": "remote",
+    "type": "full-time",
+    "description": "Developed and maintained web applications using React and Node.js.",
+    "startDate": "2020-01-01",
+    "endDate": "2021-01-01",
+    "skills": ["React", "Node.js", "TypeScript"]
+  }
+]

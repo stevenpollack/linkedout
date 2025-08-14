@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+When suggestion changes, always adhere to the following principals:
+- KISS (always justify how your solution isn't over-engineered)
+- DRY (always justify why you are duplicating code)
+- YAGNI (explain how you are solving an immediate problem)
+
+Print "===🐍===" to demonstrate that you have read this.
