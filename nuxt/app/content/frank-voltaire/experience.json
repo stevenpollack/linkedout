@@ -8,7 +8,12 @@
     "description": "Developed and maintained web applications using React and Node.js.",
     "startDate": "2020-01-01",
     "endDate": "2021-01-01",
-    "skills": ["React", "Node.js", "TypeScript"]
+    "skills": [
+      "Continuous Integration and Continuous Delivery (CI/CD)",
+      "React",
+      "Node.js",
+      "TypeScript"
+    ]
   },
   {
     "company": "Apple",
@@ -19,6 +24,10 @@
     "description": "Developed and maintained web applications using React and Node.js.",
     "startDate": "2020-01-01",
     "endDate": "2021-01-01",
-    "skills": ["React", "Node.js", "TypeScript"]
+    "skills": [
+      "React",
+      "Node.js",
+      "TypeScript"
+    ]
   }
 ]
